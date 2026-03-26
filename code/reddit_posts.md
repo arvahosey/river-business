@@ -61,6 +61,11 @@ Drop your industry + target role in the comments if interested.
 
 ---
 
+**Landing page:** https://arvahosey.github.io/river-business/code/landing_page.html
+**GitHub repo:** https://github.com/arvahosey/river-business
+
+---
+
 ## Notes for Aarin
 
 **Timing:** Post the r/resumes one first. See if it gets any comments within 24 hours.
