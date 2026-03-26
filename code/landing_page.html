@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Resume Reality Check — Get Specific Feedback, Not Generic Tips</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Georgia', serif;
+      background: #0f0f0f;
+      color: #e8e8e8;
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 60px 24px;
+    }
+
+    .badge {
+      display: inline-block;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      color: #888;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 6px 12px;
+      border-radius: 4px;
+      margin-bottom: 32px;
+      font-family: 'Courier New', monospace;
+    }
+
+    h1 {
+      font-size: clamp(28px, 5vw, 44px);
+      font-weight: normal;
+      line-height: 1.2;
+      margin-bottom: 24px;
+      color: #f5f5f5;
+    }
+
+    h1 em {
+      color: #c8a96e;
+      font-style: italic;
+    }
+
+    .subhead {
+      font-size: 18px;
+      color: #aaa;
+      margin-bottom: 48px;
+      border-left: 3px solid #c8a96e;
+      padding-left: 16px;
+    }
+
+    .problem-section {
+      background: #151515;
+      border: 1px solid #222;
+      border-radius: 8px;
+      padding: 32px;
+      margin-bottom: 40px;
+    }
+
+    .problem-section h2 {
+      font-size: 13px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #666;
+      margin-bottom: 20px;
+      font-family: 'Courier New', monospace;
+    }
+
+    .pain-point {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 16px;
+      align-items: flex-start;
+    }
+
+    .pain-point .check {
+      color: #c8a96e;
+      font-size: 16px;
+      margin-top: 2px;
+      flex-shrink: 0;
+    }
+
+    .pain-point p {
+      color: #ccc;
+      font-size: 16px;
+    }
+
+    .what-you-get {
+      margin-bottom: 48px;
+    }
+
+    .what-you-get h2 {
+      font-size: 22px;
+      color: #f5f5f5;
+      margin-bottom: 24px;
+    }
+
+    .deliverable {
+      background: #111;
+      border-left: 3px solid #c8a96e;
+      padding: 16px 20px;
+      margin-bottom: 12px;
+      border-radius: 0 4px 4px 0;
+    }
+
+    .deliverable strong {
+      color: #c8a96e;
+      display: block;
+      font-size: 14px;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      font-family: 'Courier New', monospace;
+      margin-bottom: 6px;
+    }
+
+    .deliverable p {
+      color: #bbb;
+      font-size: 15px;
+    }
+
+    .sample {
+      background: #0a0a0a;
+      border: 1px solid #1e1e1e;
+      border-radius: 8px;
+      padding: 28px;
+      margin-bottom: 48px;
+      font-family: 'Courier New', monospace;
+      font-size: 13px;
+      color: #888;
+      line-height: 1.8;
+    }
+
+    .sample .label {
+      color: #c8a96e;
+      font-weight: bold;
+    }
+
+    .sample .comment {
+      color: #555;
+    }
+
+    .pricing {
+      text-align: center;
+      background: #141414;
+      border: 1px solid #2a2a2a;
+      border-radius: 12px;
+      padding: 48px 32px;
+      margin-bottom: 48px;
+    }
+
+    .price-tag {
+      font-size: 56px;
+      color: #c8a96e;
+      font-weight: bold;
+      display: block;
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+
+    .price-note {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 32px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background: #c8a96e;
+      color: #0f0f0f;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: bold;
+      padding: 16px 40px;
+      border-radius: 6px;
+      letter-spacing: 0.05em;
+      transition: background 0.2s;
+    }
+
+    .cta-button:hover {
+      background: #d4b87a;
+    }
+
+    .cta-note {
+      color: #555;
+      font-size: 13px;
+      margin-top: 16px;
+      font-family: 'Courier New', monospace;
+    }
+
+    .how-it-works {
+      margin-bottom: 48px;
+    }
+
+    .how-it-works h2 {
+      font-size: 22px;
+      color: #f5f5f5;
+      margin-bottom: 24px;
+    }
+
+    .step {
+      display: flex;
+      gap: 20px;
+      margin-bottom: 24px;
+      align-items: flex-start;
+    }
+
+    .step-num {
+      width: 32px;
+      height: 32px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #c8a96e;
+      font-size: 14px;
+      font-family: 'Courier New', monospace;
+      flex-shrink: 0;
+    }
+
+    .step-content strong {
+      color: #e8e8e8;
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .step-content p {
+      color: #888;
+      font-size: 15px;
+    }
+
+    .faq {
+      margin-bottom: 48px;
+    }
+
+    .faq h2 {
+      font-size: 22px;
+      color: #f5f5f5;
+      margin-bottom: 24px;
+    }
+
+    .faq-item {
+      margin-bottom: 24px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid #1a1a1a;
+    }
+
+    .faq-item:last-child {
+      border-bottom: none;
+    }
+
+    .faq-item strong {
+      color: #d4c8a8;
+      display: block;
+      margin-bottom: 8px;
+      font-size: 16px;
+    }
+
+    .faq-item p {
+      color: #888;
+      font-size: 15px;
+    }
+
+    footer {
+      text-align: center;
+      color: #444;
+      font-size: 13px;
+      font-family: 'Courier New', monospace;
+      padding-top: 48px;
+      border-top: 1px solid #1a1a1a;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="badge">Resume Reality Check</div>
+
+    <h1>You've rewritten your resume.<br>Still no interviews.<br><em>Here's why.</em></h1>
+
+    <p class="subhead">
+      A specific, personalized written audit of your resume — not generic tips, not a template.
+      I tell you exactly what's broken and exactly how to fix it.
+    </p>
+
+    <!-- The Problem -->
+    <div class="problem-section">
+      <h2>Sound familiar?</h2>
+      <div class="pain-point">
+        <span class="check">→</span>
+        <p>You've applied to 100+ jobs. Under 5 callbacks. You don't know if it's your resume, your experience, or the market.</p>
+      </div>
+      <div class="pain-point">
+        <span class="check">→</span>
+        <p>You've rewritten your resume multiple times but you're guessing, not fixing.</p>
+      </div>
+      <div class="pain-point">
+        <span class="check">→</span>
+        <p>You've asked Reddit for feedback and got 12 conflicting opinions.</p>
+      </div>
+      <div class="pain-point">
+        <span class="check">→</span>
+        <p>You tried AI tools. The output sounds generic. You still can't tell if it's actually good.</p>
+      </div>
+      <div class="pain-point">
+        <span class="check">→</span>
+        <p>Career coaches charge $150+ for a call you can't afford just to hear "quantify your achievements more."</p>
+      </div>
+    </div>
+
+    <!-- What You Get -->
+    <div class="what-you-get">
+      <h2>What you get</h2>
+
+      <div class="deliverable">
+        <strong>6-Second Impression</strong>
+        <p>What a recruiter sees first. What lands, what gets skipped.</p>
+      </div>
+      <div class="deliverable">
+        <strong>ATS Compatibility Check</strong>
+        <p>The specific formatting issues that prevent your resume from being parsed correctly. Columns, headers, fonts — I check them all.</p>
+      </div>
+      <div class="deliverable">
+        <strong>Bullet-by-Bullet Diagnosis</strong>
+        <p>I pull your weakest bullets and show you the transformation. Task-focused → achievement-focused, with numbers where they belong.</p>
+      </div>
+      <div class="deliverable">
+        <strong>Summary / Headline Review</strong>
+        <p>The most-wasted section on most resumes. Is yours working or costing you?</p>
+      </div>
+      <div class="deliverable">
+        <strong>Role-Fit Gap Analysis</strong>
+        <p>How aligned is this resume with what recruiters for your target role actually want to see?</p>
+      </div>
+      <div class="deliverable">
+        <strong>Top 3 Priority Fixes</strong>
+        <p>Ranked by impact. Do these three things first.</p>
+      </div>
+    </div>
+
+    <!-- Sample Output -->
+    <div class="sample">
+      <div class="label">--- SAMPLE AUDIT EXCERPT ---</div><br/>
+      <div class="comment">// Work Experience → Bullet Analysis</div><br/>
+      <span style="color:#e8e8e8">CURRENT:</span> "Responsible for managing a team of 4 and ensuring project delivery"<br/><br/>
+      <span style="color:#c8a96e">PROBLEM:</span> "Responsible for" is a task, not an achievement. "Ensuring delivery" is vague — delivered what? By when? What happened if you didn't?<br/><br/>
+      <span style="color:#7ec898">REWRITE DIRECTION:</span> Led a 4-person team to ship [project name] 2 weeks ahead of schedule by introducing [specific thing you did]. Focus on YOUR action → the result → the number.<br/><br/>
+      <div class="comment">// The pattern: 7 of your 12 bullets are tasks. That's why this resume blends in.</div>
+    </div>
+
+    <!-- Pricing -->
+    <div class="pricing">
+      <span class="price-tag">$12</span>
+      <p class="price-note">One resume. Full written audit. Delivered within 48 hours.</p>
+      <a href="https://ko-fi.com/s/ad6bf4c892" class="cta-button">Get My Resume Audited →</a>
+      <p class="cta-note">Ko-Fi handles payment. You'll receive a link to submit your resume.</p>
+    </div>
+
+    <!-- How It Works -->
+    <div class="how-it-works">
+      <h2>How it works</h2>
+
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-content">
+          <strong>Pay via Ko-Fi ($12)</strong>
+          <p>Click the button above. No subscription, no upsells.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-content">
+          <strong>Submit your resume + target role</strong>
+          <p>Paste your resume text and tell me what roles you're applying to. Industry and level (entry/mid/senior) helps.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-content">
+          <strong>Receive your audit within 48 hours</strong>
+          <p>A structured, specific written document. Not generic advice — notes on your actual resume.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-content">
+          <strong>Fix it. Apply again.</strong>
+          <p>You'll know exactly what to change. The guessing stops here.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- FAQ -->
+    <div class="faq">
+      <h2>Common questions</h2>
+
+      <div class="faq-item">
+        <strong>Is this AI-generated?</strong>
+        <p>The analysis is AI-assisted, but it's your actual resume being analyzed against real recruiter criteria — not generic AI output applied to a blank template. Every audit is specific to your document and your target role.</p>
+      </div>
+      <div class="faq-item">
+        <strong>What industries do you cover?</strong>
+        <p>Tech, marketing, finance, operations, creative, and general professional roles. If you're in a highly specialized field (medicine, law), tell me in your submission — I'll flag where my knowledge has limits.</p>
+      </div>
+      <div class="faq-item">
+        <strong>What if I'm entry-level / just graduated?</strong>
+        <p>That's actually where this helps most. Entry-level resumes have common, fixable patterns. Tell me your level in your submission.</p>
+      </div>
+      <div class="faq-item">
+        <strong>Do you rewrite it for me?</strong>
+        <p>No — that's what a $150+ service does. This is a diagnosis. I tell you exactly what's wrong and what to do. You do the rewrite, which means you understand why it works.</p>
+      </div>
+      <div class="faq-item">
+        <strong>Can I ask follow-up questions?</strong>
+        <p>Yes. Reply to your audit and I'll answer one round of follow-ups at no charge.</p>
+      </div>
+    </div>
+
+    <!-- Final CTA -->
+    <div style="text-align: center; padding: 32px 0 48px;">
+      <p style="color: #888; margin-bottom: 24px; font-size: 16px;">Stop guessing. Get specific.</p>
+      <a href="https://ko-fi.com/s/ad6bf4c892" class="cta-button">Resume Reality Check — $12 →</a>
+    </div>
+
+    <footer>
+      Resume Reality Check &nbsp;·&nbsp; Built by River &nbsp;·&nbsp; 2026
+    </footer>
+
+  </div>
+</body>
+</html>
