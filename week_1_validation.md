@@ -109,10 +109,31 @@ A written, personalized resume audit. $10-15 per audit.
 
 ---
 
+## Platform Research — Where to Find Customers
+
+**Reddit: DEAD END** — r/resumes, r/jobs, r/careerguidance all prohibit resume audit service offers. Violates advertising rules. ❌
+
+**Platform selection (researched Mar 26):**
+
+| Platform | Week 1 outlook | Verdict |
+|----------|--------------|---------|
+| Reddit | Blocked | ❌ |
+| LinkedIn | 2-4 weeks, high scam-flag risk | ❌ Week 1 |
+| Twitter/X | Audience-building game (months) | ❌ Week 1 |
+| Facebook Groups | 1-7 days, 1-2 paid audits possible | ✅ **GO HERE** |
+| Discord | Variable, check rules per server | 🟡 Backup |
+
+**Lesson:** Check ToS BEFORE writing acquisition copy. I built Reddit posts before verifying they were allowed. Waste of time. Fixed in process going forward.
+
 ## Next Steps This Week
 
 - [x] Research complete (Mar 26)
-- [ ] Build landing page / Ko-Fi listing description (Mar 26-27)
-- [ ] Build audit framework — what I check, how I structure it (Mar 27)
-- [ ] Write Reddit post copy for Aarin to post (Mar 27-28)
-- [ ] Sunday: present findings + ask Aarin to post (Mar 29)
+- [x] Landing page built
+- [x] Audit framework built
+- [x] Reddit posts written — then SCRAPPED (Reddit prohibits this)
+- [x] Platform research: Facebook Groups selected
+- [x] Facebook Groups strategy + post copy written
+- [ ] Aarin joins groups + comments on 5-10 posts (build trust first)
+- [ ] Aarin posts free audit offer (Day 3-4 after joining)
+- [ ] First 3 free audits delivered
+- [ ] Sunday: present findings, testimonials, pricing feedback

@@ -69,3 +69,39 @@ Real validation happens when Aarin posts and someone actually responds.
 Is the real problem "I don't know what's wrong with my resume" or "I know what's wrong but don't know how to fix it"?
 The audit addresses both but it matters for positioning.
 
+---
+
+**Mar 26 — FAILURE: Reddit acquisition plan was wrong**
+
+**What happened:** Built Reddit post copy for r/resumes and r/jobs. Aarin flagged that Reddit prohibits resume audit service offers across those subreddits — violates advertising rules.
+
+**Root cause:** I didn't check platform ToS before writing acquisition copy. I assumed Reddit was fine because I see people offering help there. But "offering help" ≠ "offering paid services."
+
+**Rule added to my process:** Check platform rules BEFORE building acquisition assets. Not after.
+
+**Pivot research results (researched 4 platforms):**
+
+| Platform | Week 1 customers | Time to first sale | Ban risk | Verdict |
+|----------|----------------|--------------------|----------|---------|
+| Reddit | Blocked | N/A | Already violated | ❌ Dead end |
+| LinkedIn | 0-1 | 2-4 weeks | High (scam flags) | ❌ Month 3-4 play |
+| Twitter/X | 0 | Months | Low | ❌ Audience-first game |
+| Facebook Groups | 1-2 | 1-7 days | Moderate | ✅ **DO THIS** |
+| Discord | Variable | 2-14 days | Rule-dependent | 🟡 Secondary option |
+
+**Why Facebook Groups wins:**
+- "Free Resume Review" group exists — literally our audience
+- People actively post asking for help (inbound demand, not interruption)
+- Free audits → testimonials → paid audits is a working playbook there
+- No audience required. Join, check rules, provide value, offer service.
+- Realistic: 3-5 inquiries in week 1, 1-2 paid audits ($12-24)
+
+**LinkedIn stays on the roadmap for months 3-4** once I have testimonials and a content track record. Too risky/slow now.
+
+**New acquisition plan:**
+1. Aarin joins 3-5 Facebook career/resume groups
+2. Check each group's rules (some allow service offers with admin OK)
+3. Comment on 5-10 existing posts with genuine helpful feedback (build trust first)
+4. Post offer: "reviewing 3 resumes for free this week in exchange for feedback"
+5. Convert to paid after first free round delivers value
+

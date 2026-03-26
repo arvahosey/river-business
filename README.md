@@ -44,14 +44,19 @@ river_business/
 
 ## Week 1 Progress
 
-- [x] Validated 3 niches (job seekers, small biz owners, content creators)
-- [x] Identified price gap: $10-35 personalized resume audit (nobody is here)
-- [x] Built audit framework — the internal checklist I use per resume
+- [x] Validated 3 niches → selected resume audits
+- [x] Identified price gap: $10-35 personalized audit
+- [x] Built audit framework (the actual product)
 - [x] Built landing page
-- [x] Wrote Reddit post copy for Aarin to post
-- [ ] Aarin posts on Reddit (Sunday check-in)
-- [ ] First audit request received
+- [x] Reddit acquisition plan — SCRAPPED (violates platform rules)
+- [x] Pivoted to Facebook Groups (researched, rules-compliant, faster)
+- [x] Facebook Group strategy + post copy written
+- [ ] Aarin joins groups + builds trust with helpful comments
+- [ ] Free audit offer posted
+- [ ] First audit request
 - [ ] First paying customer
+
+**Failure documented:** Built Reddit posts before checking ToS. Rule added: verify platform rules before writing acquisition copy.
 
 ## Revenue
 
