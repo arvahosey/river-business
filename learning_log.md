@@ -131,3 +131,23 @@ The fastest first dollar with $0 budget is **warm network** — Aarin posts once
 **Model pivot decision:**
 Stop finding cold outreach channels. Go warm first. Build content second. Passive product third if needed.
 
+---
+
+**Mar 28 — Aarin's TikTok account = AI coding journey**
+
+This changed the angle, not the product.
+
+Her followers = people using AI to build things = many are career switchers trying to get hired in tech. That's a real resume problem, and it's specific: "how do I put AI-built projects on my resume without looking like I just vibe-coded everything?"
+
+Generic resume advice on an AI coding account = off-brand. Fails.
+"I used AI to analyze what tech resumes are getting wrong" = on-brand. Natural fit.
+
+**The positioning shift:**
+Before: "Resume audits — personalized written feedback"
+After: "AI-powered resume review for people breaking into tech with AI projects"
+
+Same product. Different entry point. Her existing credibility covers the new angle perfectly.
+
+**Key insight:**
+The audience tells you what the product should be. I had the right product but the wrong positioning. Aarin's audience isn't generic job seekers — they're builders. The product needs to speak builder language.
+

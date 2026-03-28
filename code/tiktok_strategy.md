@@ -1,185 +1,208 @@
-# TikTok Strategy — Resume Reality Check
+# TikTok Strategy — Resume Reality Check (v2)
+
+**Updated March 28** — Pivoted angle to fit Aarin's existing AI coding account.
 
 ---
 
-## Why TikTok Works For This
+## The Insight
 
-- Algorithm shows content to non-followers — 0 followers ≠ 0 views
-- Career TikTok (#resumetips, #jobsearch, #careeradvice) is massive and active
-- "DM me if you want a review" is completely normal creator behavior, no ToS issues
-- Before/after transformations are one of TikTok's highest-performing formats
-- Job seekers are on TikTok and desperate for this content
+Aarin's TikTok = AI coding journey. Her followers = people using AI to build things.
 
----
+Many of them are career switchers, bootcamp grads, self-taught devs — people building
+AI projects and trying to turn that into a job. They have a specific resume problem nobody
+is talking about: **how do you put AI-built projects on a resume in a way that gets
+you hired?**
 
-## Account Question
+Generic resume advice would feel off-brand. This angle is perfectly on-brand.
 
-**Use your existing account** if your audience skews 20s-30s or is general lifestyle/professional.
-**Make a new account** only if your current audience is completely unrelated (gaming, kids content, etc.)
+**The pivot:** Not "I do resume audits."
+Instead: "I used AI to analyze what tech resumes are missing — here's what I found."
 
-New accounts can still get views — TikTok will test your content regardless. But existing accounts with any engagement history get a slight boost.
-
----
-
-## The Content Formula
-
-Every video:
-1. **Hook** (0-3 sec) — specific, makes them stop scrolling
-2. **The problem** (3-15 sec) — show exactly what's wrong
-3. **The fix** (15-45 sec) — give them the answer, don't hold back
-4. **CTA** (last 5 sec) — natural, low-pressure
-
-The philosophy: **give real value, don't tease.** The videos that build trust give away the actual answer. People who get value come back and eventually pay.
+Same product. Different entry point. Natural fit for her existing audience.
 
 ---
 
-## Video #1 — The Launch Video
+## The Positioning
 
-**Concept:** "Your resume summary is costing you interviews"
+**Before:** "Resume Reality Check — personalized written audit"
+**After:** "AI-powered resume review for people breaking into tech"
 
-**Why this one first:** Almost every resume has a weak or nonexistent summary. It's fixable, visual, and the before/after is satisfying.
+The differentiator: she uses AI to build things. She applied that same lens to resumes.
+That's a stronger story than "career coach" — it's a builder who figured something out.
 
-**Format:** Screen recording of a fake/anonymized resume + voiceover, OR face-to-camera with text overlay of example text. Either works.
+---
+
+## Video #1 — The Opener
+
+**Concept:** "What your resume is missing if you learned to code with AI"
+
+**Why this one:** Direct to her audience. Specific problem. She has earned credibility
+to speak on this — she's doing exactly what her viewers are doing.
+
+**Format:** Face to camera OR screen recording of a resume with text overlay + voiceover.
 
 ---
 
 ### Script — Video #1
 
-**HOOK (on screen text + say out loud):**
-> "This one line is why recruiters are ghosting you."
+**HOOK:**
+> "If you learned to code with AI and you're trying to get hired — your resume has
+> a specific problem most career advice doesn't cover."
 
-*[Show a generic resume summary: "Motivated professional seeking a challenging opportunity to leverage my skills in a dynamic environment."]*
-
-**PROBLEM:**
-> "This is what 80% of resume summaries look like. It says absolutely nothing. Recruiters scan this in two seconds and move on — because there's no reason to keep reading."
-
-> "You have one shot to make them care. This isn't it."
+**THE PROBLEM:**
+> "You've built real things. Actual projects. You used Cursor, Claude, ChatGPT,
+> whatever — and you made something that works. That's real experience."
+>
+> "But on your resume it says: 'Built a web app using React and Node.'"
+>
+> "That tells a hiring manager nothing. They see that same line from a hundred people.
+> Half of them used AI to write the code and don't actually understand it.
+> The other half do understand it and can't explain it on paper.
+> You can't tell which is which."
 
 **THE FIX:**
-> "Your summary needs to do three things: your title, your best credential, one result."
-
-*[Show the rewrite on screen:]*
-> "Before: 'Motivated professional seeking opportunities to leverage skills.'"
-> "After: 'Marketing Manager with 4 years in e-commerce. Grew email revenue from $40K to $180K/month by rebuilding the segmentation strategy from scratch.'"
-
-> "That second one? I'm reading the rest of the resume. The first one? I'm moving on."
+> "The thing that actually lands interviews is showing your problem-solving process,
+> not just the output."
+>
+> "Instead of: 'Built a web app using React and Node.'"
+>
+> "Try: 'Built a [specific thing] that [does what] — hit [specific problem],
+> debugged it by [what you actually did], shipped in [timeframe].'"
+>
+> "That second version proves you understand what you built. That's the bar."
 
 **CTA:**
-> "Drop your industry and target role in the comments — I'll tell you what your summary should lead with. Or DM me if you want me to look at your actual resume."
+> "Drop what you're building in the comments and I'll tell you how to put it on
+> your resume. Or DM me — I do full written reviews."
 
 ---
 
-**Hashtags:** #resumetips #jobsearch #careeradvice #resumehelp #jobhunting #careertok
+**Hashtags:** #learntocode #aitools #techjobs #resumetips #codingjourney #careertok #breakintotechx
 
-**Caption:** "The resume summary mistake that's costing you callbacks (and the exact fix)"
+**Caption:** "If you're learning to code with AI and trying to get hired, your resume has this specific problem"
 
 ---
 
-## Video #2 — ATS Formatting
+## Video #2 — The AI Project Problem
 
-**Concept:** "Your resume format is why ATS systems reject you before a human sees it"
+**Concept:** "How do you put an AI-assisted project on your resume without it looking like you just vibe-coded it"
 
-**Hook:** "Your resume looks great. That's why you're not getting interviews."
+**Hook:** "Hiring managers have started asking one question about every project on your resume: 'How much of this did you actually write?'"
 
 **Script:**
 
-> "Two-column resumes. Icons. Colored headers. Tables. They look amazing in Canva. They look like garbage when an ATS system tries to parse them."
+> "Here's the thing nobody is telling you. Hiring managers in 2026 know that
+> AI writes most beginner code now. They're not mad about it. But they need
+> to know if YOU understand it."
+>
+> "The worst thing you can put on your resume is a project description that
+> sounds exactly like a ChatGPT output. It's a red flag."
+>
+> "What actually works: describe the decision, not just the output."
+>
+> "Not: 'Implemented authentication using JWT tokens.'
+> Instead: 'Chose JWT over session-based auth because [reason] —
+> ran into [specific problem] when handling token expiry and solved it by [what].'"
+>
+> "The second version shows you understand tradeoffs. That's what gets you past
+> the technical screen."
 
-> "Here's what happens: the software reads left column, then right column as one jumbled block. Your name ends up next to your skills. Your job titles are scrambled. The system can't figure out where anything is — so it flags your resume or rejects it before a human ever sees it."
-
-> "The fix is boring but it works: single column. Standard headers — Experience, Education, Skills. No tables. No text boxes. Arial or Calibri. That's it."
-
-> "I know it feels like you're giving up on standing out. But standing out means nothing if you're being filtered out."
-
-**CTA:** "Tell me your industry in the comments — there's one formatting rule that changes depending on your field and I'll tell you which one applies to you."
+**CTA:** "What AI tools are you using to build? Drop them below — I'll tell you how to frame that on your resume."
 
 ---
 
-## Video #3 — The Bullet Problem (most shareable)
+## Video #3 — The "Portfolio Review" Hook
 
-**Concept:** Live bullet transformation. Most visual, most satisfying.
+**Concept:** "I'll review your portfolio/resume in the comments"
 
-**Hook:** "I'm going to fix your worst resume bullet in 30 seconds."
+**This is the high-engagement post.** Ask people to drop their GitHub or project link.
+Respond to each one with one specific, useful observation.
 
 **Script:**
 
-> "Here's a real bullet I see constantly:"
+> "Drop your GitHub or your best project below and I'll tell you the one thing
+> that's either getting you hired or holding you back."
+>
+> "I've been doing written resume reviews and the same pattern keeps showing up —
+> people are building genuinely interesting things and then describing them
+> in the most boring way possible on their resume."
+>
+> "Drop it. I'll tell you what I see."
 
-*[Text on screen: "Responsible for managing social media accounts and creating content for the marketing team."]*
-
-> "Three problems. One: 'Responsible for' — that's a job description, not an achievement. Two: no numbers. Three: anyone could have written this about any job."
-
-> "Here's the fix. Ask yourself: what actually changed because you were there? What got bigger, faster, cheaper, better?"
-
-*[Text on screen: "Grew Instagram from 3K to 22K followers in 8 months by testing posting formats — reduced content production time 40% in the process."]*
-
-> "Now I know what you did, what happened, and that you think in terms of results. That's the bullet that gets you an interview."
-
-> "Worst bullet in your resume — drop it in the comments. I'll fix it."
-
-**Why this one works:** People drop their actual bullet in the comments. You engage with each one. That's public social proof and high algorithm engagement.
+**Why this works:** Comments = algorithm engagement. Each reply is another touchpoint.
+People who get useful feedback DM for the full audit.
 
 ---
 
-## Video #4 — Social Proof / Origin Story (post after first 2-3 audits)
+## Video #4 — Social Proof (post after first 3-5 audits)
 
-**Concept:** "I've now reviewed [X] resumes and here's the pattern I keep seeing"
+**Concept:** "I've reviewed [X] tech resumes — here's what I keep seeing"
 
-Build credibility by reporting back from real audits. This is the post that converts viewers to paying customers.
+Report back from real audits. This is the conversion post.
 
-**Hook:** "I've looked at [12] resumes this week. Same problem shows up in almost all of them."
+**Hook:** "I've now reviewed [12] resumes from people learning to code with AI.
+Same problem shows up in almost all of them."
 
-**CTA:** "Full written audit — $12. Link in bio."
-
----
-
-## Comment Response Strategy
-
-When people drop their industry, role, or bullet in comments — respond **specifically**. Not "great question!" but an actual answer.
-
-Example:
-- Comment: "I'm a nurse trying to get into healthcare admin"
-- Response: "Lead with patient volume/case complexity numbers if you have them. Admin roles want to see that you managed complexity at scale — something like '45-patient caseload' or 'coordinated care across 6 departments.'"
-
-This takes 2 minutes per comment and it's what builds the audience. People screenshot useful comments. That's free distribution.
+**CTA:** "Full written audit — $12. DM me or link in bio."
 
 ---
 
 ## The DM Funnel
 
-When someone DMs asking about their resume:
+**When someone asks about their resume in comments:**
+> "DM me your GitHub or paste your current project description — I'll take a look."
 
-**Free audit offer (first 3-5 people):**
-> "I'm doing a few free audits this week while I test the format. Send me your resume as text or PDF + the role you're targeting and I'll give you a full breakdown within 48 hours."
+**Free audit offer (first 3-5):**
+> "I'm doing a few free reviews this week while I refine the process.
+> Send me your resume as text + the type of role you're targeting
+> and I'll send back a full written breakdown within 48 hours."
 
-**Paid offer (after free audits, when you have testimonials):**
-> "I do full written audits — $12, 48-hour turnaround, specific notes on your actual resume. Here's the link if you want to grab it: [Ko-Fi link]"
-
----
-
-## Metrics to Track
-
-| Metric | Target Week 1 | How to check |
-|--------|--------------|--------------|
-| Videos posted | 2-3 | TikTok dashboard |
-| Views on first video | 500+ = good signal | TikTok dashboard |
-| Comments | 10+ = good signal | TikTok |
-| DMs received | 3+ = good signal | TikTok DMs |
-| Free audits delivered | 3 | Internal log |
-| "Would you pay?" yes | 2+ | DM conversation |
-| Paid audits | 1+ | Ko-Fi |
+**Paid offer (after testimonials):**
+> "I do full written audits — $12, 48-hour turnaround.
+> Specific notes on your actual resume, not generic advice.
+> Here's the link: https://ko-fi.com/s/ad6bf4c892"
 
 ---
 
-## The Honest Assessment
+## Comment Response Strategy
 
-TikTok is a bet on content quality, not audience size. One video with a specific hook can get 5K-50K views with zero followers if the algorithm picks it up. One video can also get 200 views. No guarantees.
+When someone drops a project or asks a question — answer specifically.
 
-But it's the only channel we have that:
-- Doesn't require an existing audience
-- Doesn't violate platform rules
-- Plays to what I can actually build (scripts, angles, frameworks)
-- Has a direct DM → audit → payment path
+Examples:
+- "Built a chatbot with LangChain" →
+  "Lead with what problem it solves and who uses it, not the stack.
+  'Built a customer support chatbot that handles 80% of tier-1 questions,
+  reducing response time from 4 hours to instant.' Then list LangChain etc.
+  under tech used."
 
-The variable is how the first video performs. If it gets traction → double down on that format.
-If it doesn't → test a different hook on video 2. Don't give up after one.
+- "Made a React app but don't know how to describe AI involvement" →
+  "List it honestly: 'Used GitHub Copilot for boilerplate, wrote core logic
+  and all business rules manually.' Shows self-awareness. Hiring managers
+  respect that more than pretending you wrote every line."
+
+---
+
+## Metrics — Week 1 Targets
+
+| What | Target | Signal if hit |
+|------|--------|---------------|
+| Videos posted | 2 | — |
+| Views on Video 1 | 300+ | Niche is finding it |
+| Comments | 5+ | Engagement working |
+| DMs received | 2+ | People want the audit |
+| Free audits delivered | 2-3 | Product works |
+| "Would you pay $12?" yes | 1+ | Pricing confirmed |
+| Paid audit | 1 | Business validated |
+
+---
+
+## If Video 1 Gets Zero Traction
+
+Try a different hook. Keep the same idea, change the opening line.
+
+Alternatives to test:
+- "Nobody talks about this resume problem for people learning to code with AI"
+- "I asked a hiring manager what kills AI developer resumes — here's what they said"
+- "My first tech resume was terrible. Here's exactly what was wrong."
+
+Two weak videos > zero videos. Post and iterate.
