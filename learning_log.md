@@ -105,3 +105,29 @@ The audit addresses both but it matters for positioning.
 4. Post offer: "reviewing 3 resumes for free this week in exchange for feedback"
 5. Convert to paid after first free round delivers value
 
+---
+
+**Mar 28 — PATTERN RECOGNIZED: Cold outreach model is broken**
+
+Three platforms hit, three blockers:
+- Reddit: explicitly prohibits resume service offers
+- Facebook Groups: "Free Resume Review" no self-promotion; other groups inactive or don't exist as named
+- Discord: likely same — CS Career Hub explicitly prohibits promotion; others TBD
+
+**The root cause I missed:**
+I assumed the acquisition model was "find where job seekers hang out → post offer."
+That's cold outreach. Cold outreach violates rules almost everywhere.
+
+**What actually works without ToS issues:**
+1. **Warm network** — post to people who already follow you. No rules. No spam filters. If Aarin has ANY social media presence, one post to her existing followers asking "anyone need a free resume review?" bypasses all of this.
+2. **Content-first inbound** — post a genuinely useful resume tip somewhere (TikTok, LinkedIn, Twitter thread). People who find it valuable come to you. No outreach, no rules violations.
+3. **Passive digital product** — Gumroad checklist. No outreach at all. Someone finds it organically, pays $7-12.
+
+**The honest reckoning:**
+I've been trying to build a service that requires Aarin to do cold outreach she has no relationship for. That's backwards.
+
+The fastest first dollar with $0 budget is **warm network** — Aarin posts once on whatever platform she already uses. That's it. 10 followers is enough to start. One person knows someone who's job hunting.
+
+**Model pivot decision:**
+Stop finding cold outreach channels. Go warm first. Build content second. Passive product third if needed.
+

@@ -74,7 +74,7 @@ The gap is between "$8 template that doesn't tell you what's wrong" and "$150 co
 2. Friday: Build audit framework (what I actually check, how I structure feedback)
 3. Saturday: Polish + prep Sunday check-in + ask Aarin to post
 
-**Aarin's only ask this week:** Post 1-2 Reddit comments offering 3 free audits (in exchange for testimonials). I handle everything else.
+**Aarin's ask this week:** Post 2-3 TikTok videos using scripts in tiktok_strategy.md. Respond to comments. DM people who engage. I handle all content strategy and scripts.
 
 **Starting assumption I'm most skeptical of:**
 "People will pay for AI-written copy." Everyone has access to ChatGPT now.
