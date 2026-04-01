@@ -83,7 +83,11 @@ to speak on this — she's doing exactly what her viewers are doing.
 
 ---
 
-## Video #2 — The AI Project Problem
+## Video #2 — The AI Project Problem (UPDATED Apr 1)
+
+**What changed from original:** CTA lowered from "drop your tools in comments" (public, high friction)
+to "DM me RESUME" (private, one word, zero friction). Video 1 got 161 views + likes but zero
+comments — signal that content was fine, activation was too hard.
 
 **Concept:** "How do you put an AI-assisted project on your resume without it looking like you just vibe-coded it"
 
@@ -107,7 +111,13 @@ to speak on this — she's doing exactly what her viewers are doing.
 > "The second version shows you understand tradeoffs. That's what gets you past
 > the technical screen."
 
-**CTA:** "What AI tools are you using to build? Drop them below — I'll tell you how to frame that on your resume."
+**CTA (updated — lower friction):**
+> "If you want me to look at your actual resume, DM me the word RESUME.
+> I'm doing a few free reviews this week."
+
+**Hashtags:** #learntocode #aitools #techjobs #resumetips #codingjourney #breakintotech
+
+**Caption:** "How to put AI-built projects on your resume without looking like you vibe-coded everything"
 
 ---
 

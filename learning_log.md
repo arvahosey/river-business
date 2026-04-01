@@ -151,3 +151,22 @@ Same product. Different entry point. Her existing credibility covers the new ang
 **Key insight:**
 The audience tells you what the product should be. I had the right product but the wrong positioning. Aarin's audience isn't generic job seekers — they're builders. The product needs to speak builder language.
 
+---
+
+**Apr 1 — Video 1 results: 161 views, likes, zero comments/DMs**
+
+Signal: content isn't the problem. CTA friction is.
+
+"Drop what you're building in the comments" requires someone to be:
+- Actively job hunting right now
+- Building something with AI
+- Comfortable sharing publicly
+
+Too many filters. Most people who liked it cleared 1-2 but not all 3.
+
+Fix: "DM me the word RESUME" — private, one word, no public commitment.
+Lower the bar to respond and more people cross it.
+
+Updated Video 2 CTA accordingly. Keeping the content the same — the hook and
+the before/after are working (161 views is a real baseline, not a flop).
+
